@@ -1,12 +1,15 @@
 This music bot includes the following command:-
 
-1. play :  to play a music  
+1. play :  to play a music 
+
     command to play song :    -play 
     
 2. stop :  to stop music
+
     command to stop song :    -stop
     
 3. clear : clear a bulk of messages by specifying number of messages to be deleted. 
+
     command to clear song :   -clear 40
     
     
@@ -27,6 +30,7 @@ Step 3:
          node .  
          
 Step 4: run the bot command in chat bot.
+
           -play https://www.youtube.com/watch?v=VJ2rlci9PE0
           
           -stop
