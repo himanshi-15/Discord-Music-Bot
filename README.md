@@ -28,6 +28,7 @@ Step 3:
          
 Step 4: run the bot command in chat bot.
           -play https://www.youtube.com/watch?v=VJ2rlci9PE0
+          
           -stop
           
  
